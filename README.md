@@ -37,7 +37,7 @@ The approach includes:
 
 ## 📁 Dataset
 
-- **Source:** [PlantVillage Dataset on Kaggle]((https://www.kaggle.com/datasets/hailom/cactus))
+- **Source:** [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/hailom/cactus)
 - Not included in this repo due to size. Please download it from Kaggle and place it in the `data/` folder.
 
 ## ▶️ How to Run Locally
