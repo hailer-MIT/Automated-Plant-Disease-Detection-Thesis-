@@ -44,8 +44,8 @@ The approach includes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hailer-MIT/plant-disease-detector.git
-cd plant-disease-detector
+git clone https://github.com/hailer-MIT/Automated-Plant-Disease-Detection-Thesis-.git
+cd Automated-Plant-Disease-Detection-Thesis-
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
@@ -55,4 +55,4 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
 # 4. Open the notebook
-jupyter notebook plant_disease_detector.ipynb
+jupyter notebook Automated-Plant-Disease-Detection-Thesis.ipynb
