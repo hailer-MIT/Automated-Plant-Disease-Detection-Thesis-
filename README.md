@@ -47,6 +47,8 @@ The approach includes:
 git clone https://github.com/hailer-MIT/Automated-Plant-Disease-Detection-Thesis-.git
 cd Automated-Plant-Disease-Detection-Thesis-
 
+# Download the dataset from Kaggle using the link on the description
+
 # 2. (Optional) Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
